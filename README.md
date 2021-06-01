@@ -3,4 +3,4 @@ JS визуализация математического алгоритма <a
 DEMO : https://iflamei.github.io/js-perlin-noise-Algorithm-/
 
 
-![Uploading image.png…]()
+![Image of perlin-noise](https://github.com/IflameI/js-perlin-noise-Algorithm-/blob/main/img%20perlin-noise.png)
